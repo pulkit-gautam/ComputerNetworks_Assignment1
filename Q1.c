@@ -58,3 +58,6 @@ void processPacket(unsigned char *packet, int dataSize) {
     printf("Destination Port: %d\n", destPort);
     printf("\n");
 }
+
+
+// parts of this code is written with the help of chat GPT.
